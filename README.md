@@ -1,4 +1,4 @@
-# CSC648-fa23-SectionName-teamNN Repository
+# csc648-01-fall23-team01 Repository
 
 **Application URL: <https://example.com>**
 
@@ -18,7 +18,12 @@
 
 | Student Name | Student Email | GitHub Username | Student's role |
 | :----------: | :-----------: | :-------------: | :------------: |
-|   John Doe   | jdoe@sfsu.edu |      jdoe       |  Team Leader   |
+|   Vinh Ngo   | vngo12@sfsu.edu |      vngo00       |  Team Leader   |
+|   Leo Wu   | lwu17@sfsu.edu |      ljwu23       |  Front-end Leader   |
+|   Vijayraj Tolnoorkar   | vtolnoorkar@sfsu.edu |      Vijayt2001       |  Front-end Leader   |
+|   Ronald Tieu   | rtieu@sfsu.edu |      ronaldtieu       |  Back-end Leader   |
+|   Nghi Nguyen   | jdoe@sfsu.edu |      nghixnguyen       |  GitHub Master   |
+|   Ivana Mena   | imena@mail.sfsu.edu |      IvaMena       |  Scrum Master   |
 
 **NO code should be stored in the root of your repository. You may rename the
 `application/` folder to your team's application name if you'd like, but all the
